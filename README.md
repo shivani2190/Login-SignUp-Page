@@ -1,9 +1,10 @@
-#Images of Login/SignUp Page
-##Login Page
+# Images-of-Login/SignUp Page
+Created by Shivani Singh
+## Login-Page
 ![r1](https://github.com/user-attachments/assets/17300a62-3270-46c9-85ab-35b1da78c132)
-##SignUp Page
+## SignUp-Page
 ![r2](https://github.com/user-attachments/assets/998a4115-ed34-4a25-b933-548276a1f1a8)
-##Dashboard Page
+## Dashboard-Page
 ![r3](https://github.com/user-attachments/assets/cd516993-8365-4633-b942-a69c14c8473c)
 
 # Getting Started with Create React App
