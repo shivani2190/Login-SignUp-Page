@@ -1,4 +1,4 @@
-# Images-of-Login/SignUp Page
+# Images of Login/SignUp Page
 Created by Shivani Singh
 ## Login-Page
 ![r1](https://github.com/user-attachments/assets/17300a62-3270-46c9-85ab-35b1da78c132)
